@@ -11,8 +11,8 @@ In this demonstration, the index.html file contains a hidden div (#hiddenPrompt)
 ### Demonstrating the Vulnerability for educational purposes
 
 <div>
-    <a href="https://www.loom.com/share/32125cf7c1764dbab68fb67f378b9964">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/32125cf7c1764dbab68fb67f378b9964-with-play.gif">
+    <a href="https://www.loom.com/share/e1668873fa1548bdaa16d9df385c87ef">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e1668873fa1548bdaa16d9df385c87ef-with-play.gif">
     </a>
   </div>
 
