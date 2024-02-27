@@ -1,0 +1,38 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+header, article, footer {
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+header h1, article h2 {
+    color: #333;
+}
+
+ul, ol {
+    margin: 20px 0;
+}
+
+.hiddenPrompt {
+    visibility: visible; /* Ensure it's not completely removed from the flow */
+    color: white; /* Matches the background, making it 'invisible' */
+    height: auto; /* Adjust as needed */
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #eee;
+    border-radius: 0 0 10px 10px;
+}
