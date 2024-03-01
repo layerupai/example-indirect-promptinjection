@@ -20,7 +20,7 @@ In this demonstration, the index.html file contains a hidden div (#hiddenPrompt)
 Addressing indirect prompt injection vulnerabilities requires a multifaceted approach, including but not limited to:
 
 * Sanitizing and validating input to detect and remove hidden instructions.
-* Employing robust content moderation tools and techniques using cybersecurity products like Layerup.
+* Employing robust content moderation tools and techniques using cybersecurity products like [Layerup](https://uselayerup.com).
 * Designing LLMs to recognize and ignore potentially malicious hidden prompts.
 
 ### Conclusion
